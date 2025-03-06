@@ -1,2 +1,2 @@
-## Laravel App - LENTI S.A DE C.V
-### En desarrollo
+## Template laravel 10 - NiceAdmin
+### Template Base
